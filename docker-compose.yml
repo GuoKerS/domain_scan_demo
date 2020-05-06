@@ -1,0 +1,4 @@
+version: "3.7"
+services:
+  domain_src_scan:
+    build: .
