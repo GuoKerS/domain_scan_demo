@@ -20,7 +20,7 @@ idna==2.9
 jdcal==1.4.1
 Js2Py==0.67
 loguru==0.4.1
-lxml==4.5.0
+lxml==4.9.1
 multidict==4.7.5
 openpyxl==2.4.11
 pyjsparser==2.7.1
