@@ -7,7 +7,7 @@ attrs==19.3.0
 beautifulsoup4==4.8.2
 Brotli==1.0.7
 bs4==0.0.1
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 cloudscraper==1.2.26
 colorama==0.4.3
